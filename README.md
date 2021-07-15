@@ -1,7 +1,8 @@
 ![Imagem Ignite](https://repository-images.githubusercontent.com/344824358/0ff8ac80-8026-11eb-8ed1-e8b77764fbcd)
 
 
-💻 Sobre o desafio
+💻 Sobre o desafio:
+
 Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS
 - Adicionar uma nova tarefa
 - Remover uma tarefa
